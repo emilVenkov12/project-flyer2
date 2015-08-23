@@ -1,7 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "venkov/project-flyer2",
+    "description": "The Laravel Project Flyer 2.",
     "license": "MIT",
     "type": "project",
     "require": {
