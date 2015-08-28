@@ -1,0 +1,2311 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"street"
+			],
+			[
+				"bfote",
+				"bformtext	bformtextfield"
+			],
+			[
+				"bfo",
+				"bform	bform"
+			],
+			[
+				"bfrma",
+				"bformemail	bformemail"
+			],
+			[
+				"photo",
+				"$photo〔variable〕"
+			],
+			[
+				"pho",
+				"$photo〔variable〕"
+			],
+			[
+				"for",
+				"foreach	blade-foreach"
+			],
+			[
+				"fl",
+				"flyers"
+			],
+			[
+				"f",
+				"$flyer〔variable〕"
+			],
+			[
+				"file",
+				"$file〔variable〕"
+			],
+			[
+				"getOr",
+				"getClientOriginalName〔function〕"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"bf",
+				"bform	bform"
+			],
+			[
+				"str_repa",
+				"str_replace〔function〕"
+			],
+			[
+				"cla",
+				"class	class …"
+			],
+			[
+				"fo",
+				"foreach	blade-foreach"
+			],
+			[
+				"has",
+				"hasMany〔function〕"
+			],
+			[
+				"co",
+				"country〔variable〕"
+			],
+			[
+				"stre",
+				"streetName〔variable〕"
+			],
+			[
+				"bfotex",
+				"bformtextarea	bformtextarea"
+			],
+			[
+				"package_prices",
+				"$package_prices〔variable〕"
+			],
+			[
+				"shipping_method",
+				"$shipping_method〔variable〕"
+			],
+			[
+				"clean",
+				"clean_request"
+			],
+			[
+				"lang",
+				"lang	lang"
+			],
+			[
+				"prema",
+				"preg_match"
+			],
+			[
+				"do",
+				"do_not_match"
+			],
+			[
+				"smart",
+				"smarty_created"
+			],
+			[
+				"sec",
+				"security_code_name"
+			],
+			[
+				"order",
+				"order_title"
+			],
+			[
+				"clas",
+				"class	class"
+			],
+			[
+				"con",
+				"$conf〔variable〕"
+			],
+			[
+				"send",
+				"send_email"
+			],
+			[
+				"cus",
+				"$customer_number_ind〔variable〕"
+			],
+			[
+				"naviga",
+				"navigation_structure"
+			],
+			[
+				"nav",
+				"navigation_structure"
+			],
+			[
+				"ca",
+				"caption"
+			],
+			[
+				"active",
+				"active_tags"
+			],
+			[
+				"act",
+				"active_tags"
+			],
+			[
+				"v",
+				"version	version"
+			],
+			[
+				"strea",
+				"streamsend_lists"
+			],
+			[
+				"val",
+				"$values〔variable〕"
+			],
+			[
+				"gro",
+				"group_id"
+			],
+			[
+				"gr",
+				"group_ids_to_rm"
+			],
+			[
+				"loca",
+				"local_ss_lists"
+			],
+			[
+				"list",
+				"list_data  (variable)"
+			],
+			[
+				"ste",
+				"streamsend_lists_ids  (variable)"
+			],
+			[
+				"local",
+				"local_ss_lists"
+			],
+			[
+				"mont",
+				"month_index  (variable)"
+			],
+			[
+				"pas",
+				"password  (variable)"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"thu",
+				"thumb_sort"
+			],
+			[
+				"cache",
+				"cache_id"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"fil",
+				"filterFields"
+			],
+			[
+				"host",
+				"hostname"
+			],
+			[
+				"data",
+				"dataLayer"
+			],
+			[
+				"export",
+				"var_export"
+			],
+			[
+				"array_",
+				"array_merge"
+			],
+			[
+				"a",
+				"argument"
+			],
+			[
+				"q_and",
+				"q_and_a_vote"
+			],
+			[
+				"relation",
+				"relation_key"
+			],
+			[
+				"rela",
+				"relation_key"
+			],
+			[
+				"va",
+				"var2"
+			],
+			[
+				"answer",
+				"answer_id"
+			],
+			[
+				"voting",
+				"voting_score"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"item_question_",
+				"item_question_answer"
+			],
+			[
+				"q_ad",
+				"q_and_a_votes"
+			],
+			[
+				"rea",
+				"relation_object"
+			],
+			[
+				"item",
+				"item_questions"
+			],
+			[
+				"STAT",
+				"STATUS_PENDING"
+			],
+			[
+				"questi",
+				"question_id"
+			],
+			[
+				"item_ques",
+				"item_question_relation  (class)"
+			],
+			[
+				"iterm",
+				"item_post  (variable)"
+			],
+			[
+				"item_qe",
+				"item_question_answer"
+			],
+			[
+				"__",
+				"__utma"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"q",
+				"q_and_a_vote  (variable)"
+			],
+			[
+				"q_a",
+				"q_and_a_vote"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"clo",
+				"closestForm"
+			],
+			[
+				"reg",
+				"registrant_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "config/app.php",
+			"settings":
+			{
+				"buffer_size": 8183,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2015_08_23_205215_create_flyer_photos_table.php",
+			"settings":
+			{
+				"buffer_size": 851,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "database/migrations/2015_08_23_205203_create_flyers_table.php",
+			"settings":
+			{
+				"buffer_size": 819,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 503,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "clse",
+		"selected_items":
+		[
+			[
+				"clse",
+				"Project: Close"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"cls",
+				"Project: Close"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"cl",
+				"Project: Close"
+			],
+			[
+				"clso",
+				"Project: Close"
+			],
+			[
+				"formph",
+				"CodeFormatter: Format as PHP Syntax"
+			],
+			[
+				"fomr",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"de",
+				"ANF: Delete File"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"edi",
+				"Project: Edit"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"sche",
+				"Schemr: List all schemes"
+			],
+			[
+				"notes",
+				"Set Syntax: Notes"
+			],
+			[
+				"packains",
+				"Package Control: Install Package"
+			],
+			[
+				"new",
+				"Tasks: New document"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"find",
+				"Find: In..."
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sy sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"themel",
+				"Themr: List favorite themes"
+			],
+			[
+				"them",
+				"Themr: List favorite themes"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"thmeto",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"th",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"thmelist",
+				"Themr: List favorite themes"
+			],
+			[
+				"add cur",
+				"Themr: Add current theme to favorites"
+			],
+			[
+				"thmr",
+				"Themr: List themes"
+			],
+			[
+				"thmrtog",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"the",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"favor",
+				"Themr: List favorite themes"
+			],
+			[
+				"thm",
+				"Themr: Add current theme to favorites"
+			],
+			[
+				"schemr",
+				"Schemr: Add current scheme to favorites"
+			],
+			[
+				"sch",
+				"Schemr: List all schemes"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"thme",
+				"Themr: List themes"
+			],
+			[
+				"theme",
+				"Themr: List themes"
+			],
+			[
+				"bookne",
+				"Bookmarks: Select Next"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"schl",
+				"Schemr: List all schemes"
+			],
+			[
+				"try",
+				"Snippet: Wrap in try { … } catch (…) { … }"
+			],
+			[
+				"tr",
+				"Snippet: Wrap in try { … } catch (…) { … }"
+			],
+			[
+				"tasnew",
+				"Tasks: New document"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"brow",
+				"Browse Mode: Current file or project"
+			],
+			[
+				"file",
+				"File: Rename"
+			],
+			[
+				"filere",
+				"File: Rename"
+			],
+			[
+				"SVN: (File) Diff ",
+				"SVN: (File) Diff"
+			],
+			[
+				"svn: ",
+				"SVN: Status"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"rea",
+				"File: Rename"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"packres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"list",
+				"Themr: List themes"
+			],
+			[
+				"colo",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"thmli",
+				"Themr: List themes"
+			],
+			[
+				"col",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"isntalk",
+				"Package Control: Install Package"
+			],
+			[
+				"wra",
+				"Snippet: Wrap in try { … } catch (…) { … }"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"todo",
+				"Set Syntax: ToDone"
+			],
+			[
+				"Packope",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pacope",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"PackageRs",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"todone",
+				"Set Syntax: ToDone"
+			],
+			[
+				"to",
+				"Set Syntax: ToDone"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"tod",
+				"Set Syntax: ToDone"
+			],
+			[
+				"ope",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"INs",
+				"Package Control: Install Package"
+			],
+			[
+				"Sch",
+				"Schemr: List all schemes"
+			],
+			[
+				"Th",
+				"Themr: List themes"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/emildev/code/project-flyer2",
+		"/home/emildev/code/project-flyer2/app",
+		"/home/emildev/code/project-flyer2/database",
+		"/home/emildev/code/project-flyer2/database/migrations",
+		"/home/emildev/code/project-flyer2/resources",
+		"/home/emildev/code/project-flyer2/resources/assets/css",
+		"/home/emildev/code/project-flyer2/resources/assets/js",
+		"/home/emildev/code/project-flyer2/resources/assets/js/libs"
+	],
+	"file_history":
+	[
+		"/home/emildev/code/project-flyer2/app/Http/FlyersController.php",
+		"/home/emildev/code/project-flyer2/app/Photo.php",
+		"/home/emildev/code/project-flyer2/config/app.php",
+		"/home/emildev/code/project-flyer2/readme.md",
+		"/home/emildev/code/project-flyer2/gulpfile.js",
+		"/home/emildev/code/project-flyer2/composer.json",
+		"/home/emildev/code/project-flyer2/resources/assets/sass/app.scss",
+		"/home/emildev/code/project-flyer/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php",
+		"/home/emildev/code/project-flyer/vendor/illuminate/html/FormBuilder.php",
+		"/home/emildev/code/project-flyer/vendor/laravel/framework/src/Illuminate/Foundation/Auth/RedirectsUsers.php",
+		"/home/emildev/code/project-flyer/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+		"/home/emildev/code/project-flyer/app/Http/Controllers/Auth/AuthController.php",
+		"/home/emildev/code/project-flyer/resources/views/auth/register.blade.php",
+		"/home/emildev/code/project-flyer/resources/views/auth/login.blade.php",
+		"/home/emildev/code/project-flyer/app/Http/routes.php",
+		"/home/emildev/code/project-flyer/app/Photo.php",
+		"/home/emildev/code/project-flyer/app/Flyer.php",
+		"/home/emildev/code/project-flyer/resources/views/flyers/form.blade.php",
+		"/home/emildev/code/project-flyer/resources/views/flyers/create.blade.php",
+		"/home/emildev/code/project-flyer/resources/views/errors.blade.php",
+		"/home/emildev/code/project-flyer/resources/views/flyers/show.blade.php",
+		"/home/emildev/code/project-flyer/resources/assets/sass/app.scss",
+		"/home/emildev/code/project-flyer/app/Http/Flash.php",
+		"/home/emildev/code/project-flyer/resources/views/flash.blade.php",
+		"/home/emildev/code/project-flyer/app/helpers.php",
+		"/home/emildev/code/project-flyer/resources/views/layout.blade.php",
+		"/home/emildev/code/project-flyer/composer.json",
+		"/home/emildev/code/project-flyer/config/app.php",
+		"/home/emildev/code/project-flyer/vendor/laracasts/generators/LICENSE",
+		"/home/emildev/code/project-flyer/app/Http/Requests/FlyerRequest.php",
+		"/home/emildev/code/project-flyer/gulpfile.js",
+		"/home/emildev/code/project-flyer/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/home/emildev/code/project-flyer/resources/views/pages/home.blade.php",
+		"/home/emildev/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/emildev/code/project-flyer/database/factories/ModelFactory.php",
+		"/home/emildev/code/project-flyer/app/Http/Utilities/Country.php",
+		"/home/emildev/code/project-flyer/database/migrations/2015_08_19_070334_create_flyer_photos_table.php",
+		"/home/emildev/code/project-flyer/database/migrations/2015_08_19_065727_create_flyers_table.php",
+		"/home/emildev/.config/sublime-text-3/Packages/User/Blade/bformtextfield.sublime-snippet",
+		"/home/emildev/.config/sublime-text-3/Packages/User/Blade/bformfile.sublime-snippet",
+		"/home/emildev/code/project-flyer/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php",
+		"/home/emildev/code/project-flyer/app/Http/Controllers/FlyerController.php",
+		"/home/emildev/code/project-flyer/resources/views/welcome.blade.php",
+		"/home/emildev/.config/sublime-text-3/Packages/Emmet/Emmet.sublime-settings",
+		"/home/emildev/code/project-flyer/.env",
+		"/home/emildev/code/project-flyer/project-flyer.sublime-project",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/snippets/sql/cleanup.sql",
+		"/home/emildev/Desktop/stProjects/tickets/jsff/t8521.sublime-project",
+		"/home/emildev/Desktop/stProjects/tickets/hoover/t7827/t7827.sublime-project",
+		"/home/emildev/bender/emil/web/mp/wff/html/mas_assets/plugin/banner_ads/toolkit/banner_ads.js",
+		"/home/emildev/Desktop/stProjects/tickets/wff/t8520/t8520.TODO",
+		"/home/emildev/Desktop/stProjects/tickets/wff/t8520/t8520.sublime-project",
+		"/home/emildev/bender/emil/web/mp/wff/heavymetal/lib/config.php.template",
+		"/home/emildev/bender/emil/web/mp/wff/heavymetal/lib/config.php",
+		"/home/emildev/bender/emil/web/mp/wff/heavymetal/snippets/sql/cleanup.sql",
+		"/home/emildev/Desktop/stProjects/tickets/wff/t8250/t8250.sublime-project",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/plugins/quickbooks_sync/cron/qb_sync.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/template/toolkit/order/declined/index.html",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/lib/masdb/order.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/lib/config.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/snippets/mut.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/plugins/quickbooks_sync/remove/sql/2015/96075.sql",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/plugins/quickbooks_sync/install/sql/2015/100673.sql",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/blog_themes/jackpotcandles/404.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/plugins/quickbooks_sync/toolkit/qb_sync_qb_oauth.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/plugins/quickbooks_sync/quickbooks_sync.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/plugins/salesforce/remove/sql/2015/96080.sql",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/snippets/sql/2015/100340.sql",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/plugins/salesforce/install/code/2015/96082.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/plugins/salesforce/cron/sf_sync.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/plugins/salesforce/toolkit/sf.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/plugins/salesforce/varso/adapter/check_auth_text.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/plugins/salesforce/salesforce.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/plugins/salesforce/install/sql/2015/96080.sql",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/lib/dasher.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/lib/toolkit/zones.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/lib/cron/archive_orders.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/plugins/shipping/shipping/ups.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/plugins/shipping/shipping/base.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/plugins/b2b_ordering/page/b2b_ordering.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/theme/orbitbaby_july2014/template/plugins/b2b_ordering/quick_order.html",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/lib/varso/adapter.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/plugins/shipping/page/shipping_hooks.php",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/snippets/sql/2008/20878.sql",
+		"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/lib/config.php.template",
+		"/home/emildev/bender/emil/web/mp/mas-kt/mas-kt.sublime-project",
+		"/home/emildev/web/mp/mas-kt/heavymetal/plugins/bronto/install/sql/2014/91626.sql",
+		"/home/emildev/web/mp/mas-kt/heavymetal/snippets/sql/cleanup.sql",
+		"/home/emildev/web/mp/mas-kt/heavymetal/lib/captcha.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/template/store/default/smarty/recaptcha.html",
+		"/home/emildev/web/mp/mas-kt/heavymetal/plugins/digital_downloads/cron/digital_downloads_import_files.php",
+		"/home/emildev/Desktop/digital_down.txt",
+		"/home/emildev/web/mp/mas-kt/heavymetal/lib/3rdparty/creole/drivers/mysqli/MySQLiConnection.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/lib/print/invoices.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/lib/3rdparty/smarty/Smarty.class.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/lib/config.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/lib/index.php",
+		"/home/emildev/web/mp/mas-kt/mas-kt.sublime-project",
+		"/home/emildev/web/mp/mas-kt/heavymetal/lib/smarty/mas_plugins/block.order_lines.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/lib/masdb/user.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/lib/toolkit/download_print.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/lib/rudolf/record.php",
+		"/home/emildev/web/mp/mas-kt/html/index.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/lib/bare/debug.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/lib/smarty.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/lib/exception.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/lib/3rdparty/creole/common/ResultSetCommon.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/plugins/targeted_countries/targeted_countries.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/plugins/targeted_countries/froco/targeted_countries.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/lib/mail/rma_close.php",
+		"/home/emildev/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/emildev/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/emildev/.config/sublime-text-3/Packages/User/Xdebug.sublime-settings",
+		"/home/emildev/web/mp/mas-kt/heavymetal/lib/mas.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/tmp/smarty_compiled/0.live.en_US.no17kl.cosabella^%%51^51C^51C05CCD%%image.php",
+		"/home/emildev/.config/sublime-text-3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/home/emildev/web/mp/mas-kt/heavymetal/lib/3rdparty/smarty/plugins/modifier.escape.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/plugins/custom_plugin_cosabella/custom_plugin_cosabella.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/plugins/banner_ads/masdb/banner_ad_zone.php",
+		"/home/emildev/web/mp/mas-kt/heavymetal/plugins/banner_ads/masdb/banner_ad.php",
+		"/home/emildev/Desktop/stProjects/tickets/csb/csb.sublime-project",
+		"/home/emildev/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib/lang.php",
+		"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib/page/index.php",
+		"/home/emildev/bender/emil/web/mp/csb/heavymetal/.phpintel/d9455aa53b69245c88b6fa75546dd1be",
+		"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib/masdb/item_child.php",
+		"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib/rudolf/record.php",
+		"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib/http.php"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/plugins/quickbooks_sync/install/sql/2015",
+			"/home/emildev/web/mp/mas-kt/heavymetal/plugins/bronto",
+			"/home/emildev/web/mp/mas-kt/heavymetal/lib/mail",
+			"/home/emildev/web/mp/mas-kt/heavymetal/template/mail/order",
+			"/home/emildev/web/mp/mas-kt/heavymetal/template/mail",
+			"/home/emildev/web/mp/mas-kt/heavymetal/template/store/solid",
+			"/home/emildev/web/mp/mas-kt/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/plugins, *.php",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib, *.php",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib/masdb",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib/masdb",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/it_IT",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/alng",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/template/store/solid",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/de_DE",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/es_ES",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib/",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib/page/",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/es_ES",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/template/store/solid/",
+			"/home/emildev/bender/emil/web/mp/csb/html/mas_assets,*.js",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/plugins/targeted_countries",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/plugins/target_countries",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/it_IT",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/fr_FR",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/de_DE",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/plugins/custom_plugin_tea",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib/mail",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/it_IT",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/fr_FR",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/es_ES",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/de_DE",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/de_DE",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/de_DE",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/de_DE",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/de_DE",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/de_DE",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/de_DE",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/de_DE",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/plugins/custom_plugin_cosabella",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/de_DE",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/, store.csv",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/*/store.csv",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/*store.csv",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/es_ES",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/it_IT",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/fr_FR",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/de_DE",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/es_ES",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/it_IT",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/it_IT",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/es_ES",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib/page",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template/checkout",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/fr_FR",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/es_ES",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib/page",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template/checkout",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/plugins/express_checkout/",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib/plugins",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/template/store/solid/",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib/page",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/template/store/solid/",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/template/store/solid/",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib/page",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/template/store/solid/",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/template/store/solid/",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib/page",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/lib/page",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/lang/de_DE",
+			"/home/emildev/bender/emil/web/mp/csb/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/theme/cosabella/lang/de_DE",
+			"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/theme/freshtrends_responsive/template",
+			"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/lib/page",
+			"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/lib",
+			"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/template/store/solid",
+			"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/theme/cosabella/template",
+			"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/template/store/solid",
+			"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/template/store/solid/",
+			"/home/emildev/bender/emil/web/mp/mas-kt/heavymetal/theme/cosabella/template"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"laravel",
+			"store",
+			"RedirectsUsers",
+			"confirmation",
+			"RegistersUsers",
+			"4",
+			"route",
+			"primary",
+			"this",
+			"->first()",
+			"file",
+			"flyer",
+			"FlyersController",
+			"id",
+			"warning",
+			"1700",
+			"flash_message",
+			"message",
+			"error",
+			"success",
+			"notice",
+			"message",
+			"Error",
+			"confirmButtonText",
+			"required",
+			"filla",
+			"country",
+			"city",
+			"street",
+			" \n		",
+			", ",
+			"  ",
+			"selected",
+			"$options",
+			"name",
+			"button",
+			"welcome",
+			"homestead",
+			"projectflyer",
+			"php",
+			"mas-kt",
+			"qb_sync_report_type",
+			"qb_enable_inventory_track",
+			"date_fulfilled",
+			"date",
+			"salesforce",
+			"Salesforce",
+			"salesforce",
+			"Marketo",
+			"text",
+			"$file",
+			"emil",
+			"dev",
+			"Your Request for Returned Item(s) Have Been Closed at",
+			"returned item",
+			"Your Request for Returned Item(s) Have Been Closed",
+			"Your Request for Returned Item(s) Have Been Closed at",
+			"country",
+			"countries",
+			"ctrl+]",
+			"ctrl+shift+]",
+			"csb",
+			"bender/emil/",
+			"transpose",
+			"ctrl+t",
+			"$_locale",
+			"locale.selected",
+			"Complimentary Shipping",
+			"check_active_items",
+			"resp",
+			"echo",
+			"23",
+			"Sorry, our payment processor is currently unavailable. Please try again in 5 minutes.",
+			"Sorry, our payment processor is currently unavailable.  Please try again in 5 minutes.",
+			"Password must be at least 6 characters, and contain both lower and upper case letters and a number.",
+			"Password must be at least 7 characters.",
+			"Password must be at least 6 characters",
+			"Password must be at least",
+			"Password must be at ",
+			"Password must be at least 6 characters.",
+			"Password must be at least 7 characters.",
+			"Password must be at least 7 characters, and contain both lower and upper case letters, a number, and a special character",
+			" ( `~!@#$%^&*()-=_+,./<>?;\\':\"[]\\{}| ).",
+			"Password must be at least 7 characters, and contain both lower and upper case letters, a number, and a special character ( `~!@#$%^&*()-=_+,./<>?;\\':\"[]\\{}| ).",
+			"Sorry, your account is not currently active.  Please contact us if you believe this is an error.",
+			"Authentication Failed. The username and/or the password you provided is invalid.",
+			"The username and/or the password you provided is invalid.",
+			"Authentication Failed.",
+			"The username and/or the password you provided is invalid.",
+			"Authentication Failed. The username and/or the password you provided is invalid.",
+			"If you wait %d minutes, your account will be unlocked and you can try to log in again.",
+			"Sorry, for security purposes, your account is temporarily locked for too many failed log in attempts.",
+			"Access Denied. The username and/or the password you provided is invalid.",
+			"This will also lift the IP ban.",
+			"You can use the Forgot Password link below to validate your e-mail and reset your password.",
+			"Due to excessive login failures, we have blocked your IP for %s minutes.",
+			"The email was not sent.",
+			"tax_address_required",
+			"A tax address is required.",
+			"cart_does_not_meet_minimum_order_subtotal",
+			"Minimum order subtotal is not met.",
+			"Your subtotal must be at least %s to place an order.",
+			"tax_address_required",
+			"A tax address is required.",
+			"Minimum order subtotal is not met.",
+			"Operation failed. Please try again later.",
+			"Your subtotal must be at least %s to place an order.",
+			"Please check that all required product options are selected",
+			"Access Denied: you are not the owner of the address you are trying to use.",
+			"Address Verification",
+			"Address Verification: Your address is not yet saved. Please see validation error(s) below:",
+			"erratum::error",
+			"items ordered",
+			"erratum::error(",
+			"About our Customer",
+			"About",
+			"Rewards Program",
+			"Reward Program",
+			"Find store",
+			"Find  store",
+			"Find a store",
+			"Privacidad",
+			"Devoluciones",
+			"from %s to %s",
+			"Monday",
+			"Contact Information",
+			"Contact Us Online",
+			"Customer Support"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",\\n\\t\\t",
+			"\\t\\t\\n",
+			"\\n",
+			"",
+			"\\n"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "config/app.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								640,
+								640
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"function_name_status_row": 20,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "database/migrations/2015_08_23_205215_create_flyer_photos_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								549,
+								549
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"function_name_status_row": 20,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "database/migrations/2015_08_23_205203_create_flyers_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								286
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"function_name_status_row": 14,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								503,
+								503
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"function_name_status_row": -1,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 232.0
+	},
+	"pinned_build_system": "",
+	"project": "project-flyer2.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ro",
+				"app/Http/routes.php"
+			],
+			[
+				"ap",
+				"config/app.php"
+			],
+			[
+				"app",
+				"~/code/project-flyer/config/app.php"
+			],
+			[
+				"redictor",
+				"vendor/laravel/framework/src/Illuminate/Routing/Redirector.php"
+			],
+			[
+				"redirectresponse",
+				"vendor/symfony/http-foundation/RedirectResponse.php"
+			],
+			[
+				"createflaye",
+				"database/migrations/2015_08_19_070334_create_flyer_photos_table.php"
+			],
+			[
+				"",
+				"app/Photo.php"
+			],
+			[
+				"app.",
+				"config/app.php"
+			],
+			[
+				"redirectsusers",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/RedirectsUsers.php"
+			],
+			[
+				"registersusers",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/RegistersUsers.php"
+			],
+			[
+				"authenticatesandregistersusers",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php"
+			],
+			[
+				"authcontr",
+				"app/Http/Controllers/Auth/AuthController.php"
+			],
+			[
+				"formbiu",
+				"vendor/illuminate/html/FormBuilder.php"
+			],
+			[
+				"create",
+				"resources/views/flyers/create.blade.php"
+			],
+			[
+				"app.sc",
+				"resources/assets/sass/app.scss"
+			],
+			[
+				"photo",
+				"app/Photo.php"
+			],
+			[
+				"flyer",
+				"app/Flyer.php"
+			],
+			[
+				"phot",
+				"app/Photo.php"
+			],
+			[
+				"flye",
+				"app/Flyer.php"
+			],
+			[
+				"flyershow",
+				"resources/views/flyers/show.blade.php"
+			],
+			[
+				"lay",
+				"resources/views/layout.blade.php"
+			],
+			[
+				"laracast/",
+				"vendor/laracasts/generators/LICENSE"
+			],
+			[
+				"com",
+				"composer.json"
+			],
+			[
+				"gulpf",
+				"gulpfile.js"
+			],
+			[
+				"model",
+				"vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php"
+			],
+			[
+				"flyerre",
+				"app/Http/Requests/FlyerRequest.php"
+			],
+			[
+				"createphot",
+				"database/migrations/2015_08_19_070334_create_flyer_photos_table.php"
+			],
+			[
+				"creta",
+				"resources/views/flyers/create.blade.php"
+			],
+			[
+				"pho",
+				"app/Photo.php"
+			],
+			[
+				"createflyer",
+				"database/migrations/2015_08_19_065727_create_flyers_table.php"
+			],
+			[
+				"form",
+				"vendor/illuminate/html/FormBuilder.php"
+			],
+			[
+				"viewserviceprovider",
+				"vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php"
+			],
+			[
+				"comp",
+				"composer.json"
+			],
+			[
+				"welcome",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"rou",
+				"app/Http/routes.php"
+			],
+			[
+				"app.scss",
+				"resources/assets/sass/app.scss"
+			],
+			[
+				"clea",
+				"mas-kt/heavymetal/snippets/sql/cleanup.sql"
+			],
+			[
+				"conf",
+				"mas-kt/heavymetal/lib/config.php"
+			],
+			[
+				"toolit/bannera.js",
+				"wff/html/mas_assets/plugin/banner_ads/toolkit/banner_ads.js"
+			],
+			[
+				"clean",
+				"wff/heavymetal/snippets/sql/cleanup.sql"
+			],
+			[
+				"config",
+				"wff/heavymetal/lib/config.php.template"
+			],
+			[
+				"template/toolkit/order/declined/index",
+				"mas-kt/heavymetal/template/toolkit/order/declined/index.html"
+			],
+			[
+				"db/order",
+				"mas-kt/heavymetal/lib/masdb/order.php"
+			],
+			[
+				"con",
+				"mas-kt/heavymetal/lib/config.php"
+			],
+			[
+				"mut.",
+				"mas-kt/heavymetal/snippets/mut.php"
+			],
+			[
+				"dash",
+				"mas-kt/heavymetal/lib/dasher.php"
+			],
+			[
+				"toolkit/zones",
+				"mas-kt/heavymetal/lib/toolkit/zones.php"
+			],
+			[
+				"etal/lib/varso/adapte",
+				"mas-kt/heavymetal/lib/varso/adapter.php"
+			],
+			[
+				"b2b",
+				"mas-kt/heavymetal/plugins/b2b_ordering/page/b2b_ordering.php"
+			],
+			[
+				"age/shippin",
+				"mas-kt/heavymetal/plugins/shipping/page/shipping_hooks.php"
+			],
+			[
+				"shipping/base",
+				"mas-kt/heavymetal/plugins/shipping/shipping/base.php"
+			],
+			[
+				"shipping/ups",
+				"mas-kt/heavymetal/plugins/shipping/shipping/ups.php"
+			],
+			[
+				"2008/20878.sql",
+				"mas-kt/heavymetal/snippets/sql/2008/20878.sql"
+			],
+			[
+				"jax/shipping_smarty",
+				"mas-kt/heavymetal/plugins/shipping/ajax/shipping_smarty.php"
+			],
+			[
+				"shippinbase",
+				"mas-kt/heavymetal/plugins/shipping/shipping/base.php"
+			],
+			[
+				"captcha",
+				"mas-kt/heavymetal/template/store/default/smarty/recaptcha.html"
+			],
+			[
+				"digital/cron.",
+				"mas-kt/heavymetal/plugins/digital_downloads/cron/digital_downloads_import_files.php"
+			],
+			[
+				"in",
+				"mas-kt/heavymetal/lib/index.php"
+			],
+			[
+				"ind",
+				"mas-kt/heavymetal/lib/index.php"
+			],
+			[
+				"tagrgeted",
+				"mas-kt/heavymetal/plugins/targeted_countries/targeted_countries.php"
+			],
+			[
+				"inde",
+				"mas-kt/heavymetal/lib/index.php"
+			],
+			[
+				"config.",
+				"mas-kt/heavymetal/lib/config.php"
+			],
+			[
+				"page/mutl",
+				"csb/heavymetal/plugins/multilang/page/multilang.php"
+			],
+			[
+				"lang",
+				"csb/heavymetal/lib/lang.php"
+			],
+			[
+				"target",
+				"csb/heavymetal/plugins/targeted_countries/froco/targeted_countries.php"
+			],
+			[
+				"page/inde",
+				"csb/heavymetal/lib/page/index.php"
+			],
+			[
+				"gogolefeed",
+				"csb/heavymetal/plugins/custom_plugin_freshtrends/cron/freshtrends_google_feed.php"
+			],
+			[
+				"page/item",
+				"csb/heavymetal/lib/page/item.php"
+			],
+			[
+				"tea_goo",
+				"csb/heavymetal/plugins/custom_plugin_tea/cron/tea_google_feed.php"
+			],
+			[
+				"gtm/core",
+				"csb/heavymetal/plugins/google_tag_manager/smarty/plugins/gtm/core.php"
+			],
+			[
+				"http",
+				"csb/heavymetal/lib/http.php"
+			],
+			[
+				"recor",
+				"csb/heavymetal/lib/rudolf/record.php"
+			],
+			[
+				"sdb/item",
+				"csb/heavymetal/lib/masdb/item_child.php"
+			],
+			[
+				"q_and_/install",
+				"mas-kt/heavymetal/plugins/q_and_a/install/sql/2014/89248.sql"
+			],
+			[
+				"toolkit/mu",
+				"mas-kt/heavymetal/plugins/multilang/toolkit/multilang.php"
+			],
+			[
+				"toolkit/banjs",
+				"mas-kt/html/mas_assets/plugin/banner_ads/toolkit/banner_ads.js"
+			],
+			[
+				"toolkit/mul",
+				"mas-kt/heavymetal/plugins/multilang/toolkit/multilang.php"
+			],
+			[
+				"cked",
+				"mas-kt/html/mas_assets/toolkit/ckeditor.config.js"
+			],
+			[
+				"page/faq",
+				"mas-kt/heavymetal/lib/page/faq.php"
+			],
+			[
+				"solidsmarty/include.openhours",
+				"mas-kt/heavymetal/template/store/solid/smarty/include.openhours.html"
+			],
+			[
+				"teagoglefd",
+				"mas-kt/heavymetal/plugins/custom_plugin_tea/cron/tea_google_feed.php"
+			],
+			[
+				"page/re",
+				"mas-kt/heavymetal/lib/page/register.php"
+			],
+			[
+				"solidregtabs",
+				"mas-kt/heavymetal/template/store/solid/account/registry/tabs.html"
+			],
+			[
+				"cosaaccount/registry/share",
+				"mas-kt/heavymetal/theme/cosabella/template/account/registry/share-form.html"
+			],
+			[
+				"cosa/auth/registry/start",
+				"mas-kt/heavymetal/theme/cosabella/template/auth/registry/start.html"
+			],
+			[
+				"account/registry/registry_congrats",
+				"mas-kt/heavymetal/template/store/solid/account/registry/registry_congrats.html"
+			],
+			[
+				"page/regis",
+				"mas-kt/heavymetal/lib/page/register.php"
+			],
+			[
+				"cosaregis",
+				"mas-kt/heavymetal/theme/cosabella/template/auth/register_form.html"
+			],
+			[
+				"cosaregisterform",
+				"mas-kt/heavymetal/theme/cosabella/template/auth/register_form.html"
+			],
+			[
+				"cosa/login",
+				"mas-kt/heavymetal/theme/cosabella/template/auth/login_form.html"
+			],
+			[
+				"orderajato",
+				"mas-kt/heavymetal/lib/toolkit/order_edit_ajax_tools.php"
+			],
+			[
+				"smarty",
+				"mas-kt/heavymetal/lib/smarty.php"
+			],
+			[
+				"mailinvoc",
+				"mas-kt/heavymetal/lib/mail/invoice_customer.php"
+			],
+			[
+				"targetcount",
+				"mas-kt/heavymetal/plugins/targeted_countries/targeted_countries.php"
+			],
+			[
+				"custocosabe",
+				"mas-kt/heavymetal/plugins/custom_plugin_cosabella/custom_plugin_cosabella.php"
+			],
+			[
+				"libemail",
+				"mas-kt/heavymetal/lib/email.php"
+			],
+			[
+				"cosaauth/track/order",
+				"mas-kt/heavymetal/theme/cosabella/template/auth/track/order.html"
+			],
+			[
+				"page/myhis",
+				"mas-kt/heavymetal/lib/page/myhistory.php"
+			],
+			[
+				"account/cancle",
+				"mas-kt/heavymetal/template/store/solid/account/cancelled_order_lines.html"
+			],
+			[
+				"account/cancelled_order_lines",
+				"mas-kt/heavymetal/template/store/solid/account/cancelled_order_lines.html"
+			],
+			[
+				"cosa/account/order",
+				"mas-kt/heavymetal/theme/cosabella/template/account/order.html"
+			],
+			[
+				"cosa/checkout/receip",
+				"mas-kt/heavymetal/theme/cosabella/template/checkout/receipt.html"
+			],
+			[
+				"page/chec",
+				"mas-kt/heavymetal/lib/page/checkout.php"
+			],
+			[
+				"cosabrowse/thumb_sort",
+				"mas-kt/heavymetal/theme/cosabella/template/browse/thumb_sort.html"
+			],
+			[
+				"cosasmarty/facets/main",
+				"mas-kt/heavymetal/theme/cosabella/template/smarty/facets/main.html"
+			],
+			[
+				"fun.refine",
+				"mas-kt/heavymetal/lib/smarty/mas_plugins/function.refine.php"
+			],
+			[
+				"tal/theme/cosabella/template/browse/search/index",
+				"mas-kt/heavymetal/theme/cosabella/template/browse/search/index.html"
+			],
+			[
+				"page/seek",
+				"mas-kt/heavymetal/lib/page/seek.php"
+			],
+			[
+				"funcategory_tree",
+				"mas-kt/heavymetal/lib/smarty/mas_plugins/function.category_tree.php"
+			],
+			[
+				"browse/category/category_nav",
+				"mas-kt/heavymetal/theme/cosabella/template/browse/category/category_nav.html"
+			],
+			[
+				"coas/index.lan",
+				"mas-kt/heavymetal/theme/cosabella/template/browse/category/index.landing.html"
+			],
+			[
+				"sabella/template/browse/category/index.landing",
+				"mas-kt/heavymetal/theme/cosabella/template/browse/category/index.outlet_landing.html"
+			],
+			[
+				"eme/cosabella/template/account/registry/wishlist",
+				"mas-kt/heavymetal/theme/cosabella/template/account/registry/wishlist.html"
+			],
+			[
+				"theme/cosabella/template/account/registry/share",
+				"mas-kt/heavymetal/theme/cosabella/template/account/registry/share-form.html"
+			],
+			[
+				"sabella/template/account/payment/inde",
+				"mas-kt/heavymetal/theme/cosabella/template/account/payment/index.html"
+			],
+			[
+				"e/cosabella/template/account/index.html",
+				"mas-kt/heavymetal/theme/cosabella/template/account/index.html"
+			],
+			[
+				"cosafrstore.cs",
+				"mas-kt/heavymetal/theme/cosabella/lang/fr_FR/store.csv"
+			],
+			[
+				"cosaes/store",
+				"mas-kt/heavymetal/theme/cosabella/lang/es_ES/store.csv"
+			],
+			[
+				"cosaesstore.csv",
+				"mas-kt/heavymetal/theme/cosabella/lang/es_ES/store.csv"
+			],
+			[
+				"it_it/store.",
+				"mas-kt/heavymetal/theme/cosabella/lang/it_IT/store.csv"
+			],
+			[
+				"cosafooter",
+				"mas-kt/heavymetal/theme/cosabella/template/footer.html"
+			],
+			[
+				"reviewbefsumex",
+				"mas-kt/heavymetal/theme/cosabella/template/checkout/review_before_submit.express_checkout.html"
+			],
+			[
+				"cosaaccount/payment/edit_card",
+				"mas-kt/heavymetal/theme/cosabella/template/account/payment/edit_card.html"
+			],
+			[
+				"payment_wallet",
+				"mas-kt/heavymetal/lib/page/payment_wallet.php"
+			],
+			[
+				"fun.wa",
+				"mas-kt/heavymetal/lib/smarty/mas_plugins/function.wallet.php"
+			],
+			[
+				"page/w",
+				"mas-kt/heavymetal/lib/page/wallet.php"
+			],
+			[
+				"cosa/edit",
+				"mas-kt/heavymetal/theme/cosabella/template/checkout/edit_payment_method.html"
+			],
+			[
+				"cosa/editp",
+				"mas-kt/heavymetal/theme/cosabella/template/checkout/edit_payment_method.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remd",
+				"~/code/redmine-api/redmine-api.sublime-project"
+			],
+			[
+				"840",
+				"~/Desktop/stProjects/tickets/heartmath/t8405/t8405.sublime-project"
+			],
+			[
+				"7826",
+				"~/Desktop/stProjects/tickets/heartmath/t7826/t7826.sublime-project"
+			],
+			[
+				"",
+				"~/Desktop/stProjects/tickets/wff/t8250/t8250.sublime-project"
+			],
+			[
+				"bend/mas-kt",
+				"~/bender/emil/web/mp/mas-kt/mas-kt.sublime-workspace"
+			],
+			[
+				"76",
+				"~/Desktop/stProjects/tickets/t7619/t7619.sublime-project"
+			],
+			[
+				"71",
+				"~/Desktop/stProjects/tickets/ft/t7191/7191.sublime-project"
+			],
+			[
+				"6733",
+				"~/Desktop/stProjects (local)/tickets/t6733/t6733.sublime-project"
+			],
+			[
+				"mas.",
+				"~/Desktop/stProjects/mp/mas/mas.sublime-project"
+			],
+			[
+				"6953",
+				"~/Desktop/stProjects/tickets/t6953/t6953.sublime-project"
+			],
+			[
+				"conf",
+				"~/Desktop/stProjects/mp/config/config.sublime-project"
+			],
+			[
+				"682",
+				"~/Desktop/stProjects/tickets/t6821/t6821.sublime-project"
+			],
+			[
+				"6603",
+				"~/Desktop/stProjects/tickets/t6603/t6603.sublime-project"
+			],
+			[
+				"660",
+				"~/Desktop/stProjects/tickets/t6603/t6603.sublime-project"
+			],
+			[
+				"co",
+				"~/Desktop/stProjects/mp/config/config.sublime-project"
+			],
+			[
+				"con",
+				"~/Desktop/stProjects/mp/config/config.sublime-project"
+			],
+			[
+				"cl",
+				"~/Desktop/projects/cla.sublime-project"
+			],
+			[
+				"652",
+				"~/Desktop/stProjects/tickets/t6522/t6522.sublime-project"
+			],
+			[
+				"6406",
+				"~/Desktop/stProjects/tickets/t6406/t6406.sublime-project"
+			],
+			[
+				"63",
+				"~/Desktop/stProjects/tickets/t6380/t6380.sublime-project"
+			],
+			[
+				"633",
+				"~/Desktop/stProjects/tickets/t6335/t6335.sublime-project"
+			],
+			[
+				"6294",
+				"~/Desktop/stProjects/tickets/t6294/t6294.sublime-project"
+			],
+			[
+				"5756",
+				"~/Desktop/stProjects/tickets/t5756/t5756.sublime-project"
+			],
+			[
+				"mas",
+				"~/Desktop/stProjects/mp/mas/mas.sublime-project"
+			],
+			[
+				"5687",
+				"~/Desktop/stProjects/tickets/t5687/t5687.sublime-project"
+			],
+			[
+				"588",
+				"~/Desktop/stProjects/tickets/t5882/t5882.sublime-project"
+			],
+			[
+				"5705",
+				"~/Desktop/stProjects/tickets/t5705/t5705.sublime-project"
+			],
+			[
+				"531",
+				"~/Desktop/stProjects/tickets/t5317/t5317.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"invoke",
+				"invoke"
+			],
+			[
+				"",
+				"Bronto_Api_Segment"
+			]
+		],
+		"width": 655.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
