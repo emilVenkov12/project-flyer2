@@ -1,16 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>Project Flyer</title>
+    <meta charset="UTF-8">
+    <title>Project Flyer</title>
   <link rel="stylesheet" type="text/css" href="/css/app.css">
-	<link rel="stylesheet" type="text/css" href="/css/libs.css">
+    <link rel="stylesheet" type="text/css" href="/css/libs.css">
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/dropzone/4.0.1/dropzone.css">
 </head>
 <body>
-    
-	<nav class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
@@ -26,13 +25,18 @@
             <li><a href="#about">About</a></li>
             <li><a href="#contact">Contact</a></li>
           </ul>
+          @if ($signedIn)
+              <p class="navbar-text navbar-right">
+                Hello, {{ $user->name }}
+              </p>
+          @endif
         </div><!--/.nav-collapse -->
-      </div>
+        </div>
     </nav>
     
-	<div class="container">
-		@yield('content')
-	</div>
+    <div class="container">
+        @yield('content')
+    </div>
   <script type="text/javascript" src="/js/libs.js"></script>
   
   @yield('scripts.footer')

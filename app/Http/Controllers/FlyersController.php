@@ -9,6 +9,7 @@ use App\Http\Controllers\Controller;
 use Symfony\Component\HttpFoundation\File\UploadedFile;
 
 use App\Http\Requests\FlyerRequest;
+use App\Http\Requests\ChangeFlyerRequest;
 use App\Flyer;
 use App\Photo;
 
@@ -17,6 +18,7 @@ class FlyersController extends Controller
     public function __construct()
     {
         $this->middleware('auth', ['except' => ['show']]);
+        parent::__construct();
     }
 
     /**
@@ -74,16 +76,40 @@ class FlyersController extends Controller
      * @param string  $street
      * @param Request $request
      */
-    public function addPhoto($zip, $street, Request $request)
+    public function addPhoto($zip, $street, ChangeFlyerRequest $request)
     {
         $this->validate($request, [
             'photo' => 'required|mimes:jpg,jpeg,png,bmp'
         ]);
 
-        // $photo = Photo::fromForm($request->file('photo'));
+        if (! $this->userCreatedFlyer($request)) 
+        {
+            return $this->unauthorized($request);
+        }
+
         $photo = $this->makePhoto($request->file('photo'));
 
-        Flyer::locatedAt($zip, $street)->addPhoto($photo);
+         Flyer::locatedAt($zip, $street)->addPhoto($photo);
+    }
+
+    protected function userCreatedFlyer(Request $request)
+    {
+        return Flyer::where([
+            'zip' => $request->zip,
+            'street' => $request->street,
+            'user_id' => $this->user->id
+        ])->exists();
+    }
+
+    protected function unauthorized(Request $request)
+    {    
+        if ($request->ajax()) {
+            return response(['message' => 'No Way.'], 403);
+        }
+
+        flash('No Way');
+        
+        return redirect('/');
     }
 
     protected function makePhoto(UploadedFile $file)
