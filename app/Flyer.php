@@ -3,6 +3,7 @@
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
+use App\Photo;
 
 class Flyer extends Model
 {
@@ -20,6 +21,28 @@ class Flyer extends Model
     	'price',
     	'description'
     ];
+
+    /**
+     * Find flyer located at given zip and street.
+     * @param  string $zip
+     * @param  string $street
+     * @return self
+     */
+    public static function locatedAt($zip, $street)
+    {
+        $street = str_replace('-', ' ', $street);
+
+        return static::where(compact('zip', 'street'))->firstOrFail();
+    }
+
+    /**
+     * Add photo to the flyer.
+     * @param Photo $photo
+     */
+    public function addPhoto(Photo $photo)
+    {
+        return $this->photos()->save($photo);
+    }
 
     /**
      * A flyer is composed of many photos
