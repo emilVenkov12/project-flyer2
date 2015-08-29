@@ -51,7 +51,9 @@ class FlyersController extends Controller
     {
         //persist the flyer data
         $flyer = Flyer::create($request->all());
-        
+        $flyer->user_id = $this->user->id;
+        $flyer->save();
+
         flash()->success('Success!', 'Your flyer has been created!');
 
         return redirect("{$flyer->zip}/{$flyer->street}");
@@ -74,42 +76,13 @@ class FlyersController extends Controller
      * Apply photo for the referenced flyer.
      * @param string  $zip
      * @param string  $street
-     * @param Request $request
+     * @param ChangeFlyerRequest $request
      */
     public function addPhoto($zip, $street, ChangeFlyerRequest $request)
     {
-        $this->validate($request, [
-            'photo' => 'required|mimes:jpg,jpeg,png,bmp'
-        ]);
-
-        if (! $this->userCreatedFlyer($request)) 
-        {
-            return $this->unauthorized($request);
-        }
-
         $photo = $this->makePhoto($request->file('photo'));
 
          Flyer::locatedAt($zip, $street)->addPhoto($photo);
-    }
-
-    protected function userCreatedFlyer(Request $request)
-    {
-        return Flyer::where([
-            'zip' => $request->zip,
-            'street' => $request->street,
-            'user_id' => $this->user->id
-        ])->exists();
-    }
-
-    protected function unauthorized(Request $request)
-    {    
-        if ($request->ajax()) {
-            return response(['message' => 'No Way.'], 403);
-        }
-
-        flash('No Way');
-        
-        return redirect('/');
     }
 
     protected function makePhoto(UploadedFile $file)

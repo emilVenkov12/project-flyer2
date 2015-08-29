@@ -26,7 +26,7 @@ class Photo extends Model
      * Basic directory where the photo are uploaded.
      * @var string
      */
-    protected $baseDir = 'flyer/photos';
+    protected $baseDir = 'images/photos';
 
 	/**
 	 * A photo belongs to one flyer.

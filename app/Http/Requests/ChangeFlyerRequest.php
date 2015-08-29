@@ -2,6 +2,7 @@
 
 namespace App\Http\Requests;
 
+use App\Flyer;
 use App\Http\Requests\Request;
 
 class ChangeFlyerRequest extends Request
@@ -13,7 +14,11 @@ class ChangeFlyerRequest extends Request
      */
     public function authorize()
     {
-        return false;
+        return Flyer::where([
+            'zip' => $this->zip,
+            'street' => $this->street,
+            'user_id' => $this->user()->id
+        ])->exists();
     }
 
     /**
@@ -24,7 +29,7 @@ class ChangeFlyerRequest extends Request
     public function rules()
     {
         return [
-            //
+            'photo' => 'required|mimes:jpg,jpeg,png,bmp'
         ];
     }
 }
