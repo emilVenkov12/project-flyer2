@@ -13,13 +13,13 @@ class Flyer extends Model
      * @var array
      */
     protected $fillable = [
-    	'street',
-    	'city',
-    	'zip',
-    	'country',
-    	'state',
-    	'price',
-    	'description'
+        'street',
+        'city',
+        'zip',
+        'country',
+        'state',
+        'price',
+        'description'
     ];
 
     /**
@@ -50,7 +50,7 @@ class Flyer extends Model
      */
     public function photos()
     {
-    	return $this->hasMany('App\Photo');
+        return $this->hasMany('App\Photo');
     }
 
     /**
