@@ -21,19 +21,19 @@
 					@endforeach
 				</div>
 			@endforeach
+			
+			@if ($user && $user->owns($flyer))	
+				<hr />
+
+				{!! Form::open([
+					'class' => 'dropzone', 
+					'route' => ['store_photo_path', $flyer->zip, $flyer->street], 
+					'id' => 'addPhotosForm'
+				]) !!}
+				{!! Form::close()!!}
+			@endif
 		</div>
 	</div>
-
-	<hr>
-
-	<h2>Add Your Photos</h2>
-
-	{!! Form::open([
-		'class' => 'dropzone', 
-		'route' => ['store_photo_path', $flyer->zip, $flyer->street], 
-		'id' => 'addPhotosForm'
-	]) !!}
-	{!! Form::close()!!}
 @stop
 
 @section('scripts.footer')

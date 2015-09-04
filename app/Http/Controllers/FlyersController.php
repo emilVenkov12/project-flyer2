@@ -2,14 +2,12 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
-use App\Http\Requests;
-use App\Http\Controllers\Controller;
-use Symfony\Component\HttpFoundation\File\UploadedFile;
-use App\Http\Requests\FlyerRequest;
-use App\Http\Requests\ChangeFlyerRequest;
 use App\Flyer;
 use App\Photo;
+use Illuminate\Http\Request;
+use App\Http\Requests\FlyerRequest;
+use App\Http\Controllers\Controller;
+use App\Http\Requests\AddPhotoRequest;
 
 class FlyersController extends Controller
 {
@@ -74,11 +72,11 @@ class FlyersController extends Controller
      * Apply photo for the referenced flyer.
      * @param string  $zip
      * @param string  $street
-     * @param ChangeFlyerRequest $request
+     * @param AddPhotoRequest $request
      */
-    public function addPhoto($zip, $street, ChangeFlyerRequest $request)
+    public function addPhoto($zip, $street, AddPhotoRequest $request)
     {
-        $photo = $this->makePhoto($request->file('photo'));
+        $photo = Photo::fromFile($request->file('photo'));
 
         Flyer::locatedAt($zip, $street)->addPhoto($photo);
     }
