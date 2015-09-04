@@ -30,9 +30,9 @@ class Flash
 
 	/**
 	 * Create a success flash message.
-	 * @param  [type] $title   [description]
-	 * @param  [type] $message [description]
-	 * @return [type]          [description]
+	 * @param  string $title
+	 * @param  string $message
+	 * @return void
 	 */
 	public function success($title, $message)
 	{
