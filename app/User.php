@@ -7,6 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Auth\Passwords\CanResetPassword;
 use Illuminate\Contracts\Auth\Authenticatable as AuthenticatableContract;
 use Illuminate\Contracts\Auth\CanResetPassword as CanResetPasswordContract;
+use App\Flyer;
 
 class User extends Model implements AuthenticatableContract, CanResetPasswordContract
 {
@@ -36,5 +37,15 @@ class User extends Model implements AuthenticatableContract, CanResetPasswordCon
     public function owns($relation)
     {
         return $relation->user_id == $this->id;
+    }
+
+    public function flyers()
+    {
+        return $this->hasMany(Flyer::class);
+    }
+
+    public function publish(Flyer $flyer)
+    {
+        return $this->flyers()->save($flyer);
     }
 }

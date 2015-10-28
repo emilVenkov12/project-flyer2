@@ -31,6 +31,7 @@
 
 				<div class="form-group">
 					{!! Form::submit('Register', ['class' => 'btn btn-default']) !!}
+					Already have an account ? <a href="/auth/login" class="btn btn-link">Log In.</a>
 				</div>
 			{!! Form::close()!!}
 		</div>
